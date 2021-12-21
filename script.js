@@ -3,8 +3,6 @@
 const date = new Date();
 const year = date.getFullYear();
 
-const monthDays = document.querySelector(``);
-
 const months = [
     `Январь`,
     `Февраль`,
